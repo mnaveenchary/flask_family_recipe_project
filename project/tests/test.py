@@ -26,8 +26,6 @@ class ProjectTests(unittest.TestCase):
     #### helper methods ####
     ########################
 
-
-
     ###############
     #### tests ####
     ###############
